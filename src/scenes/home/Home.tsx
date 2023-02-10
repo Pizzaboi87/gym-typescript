@@ -39,10 +39,12 @@ const Home = ({ setSelectedPage }: Props) => {
                 <img src={HomePageText} alt="home-page-text" />
               </div>
             </div>
-            <p className="mt-8 text-sm">
-              Unrivaled Gym. Unparalleled Training Fitness Classes. World Class
-              Studios to get the Body Shapes That you Dream of.. Get Your Dream
-              Body Now.
+            <p className="mt-8 text-sm text-justify">
+              Transform your body and reach your fitness goals with our
+              unmatched gym. Experience Premium Training and State-of-Art
+              Studios.
+              <br />
+              Join Our Community and Get in Shape <strong>Today</strong>!
             </p>
           </motion.div>
           <motion.div
