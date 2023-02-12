@@ -6,18 +6,18 @@ The website was built with a combination of Typescript, React with Vite, and Tai
 
 Links to the relevant technologies used in the project can be found below:
 
-React: https://reactjs.org/
-Typescript: https://www.typescriptlang.org/
-Typescript Types vs Interfaces: https://tinyurl.com/typescripttypesvs...
-Vite: https://tailwindcss.com/docs/guides/vite
-Google Fonts: https://fonts.google.com/
-Tailwind: https://tailwindcss.com/
-Prettier Tailwind CSS Plugin: https://github.com/tailwindlabs/prett...
-Prettier Tailwind CSS Sorting: https://tailwindcss.com/blog/automati...
-Hero Icons: https://heroicons.com/
-Framer Motion: https://www.framer.com/docs/introduct...
-Form Submit: https://formsubmit.co/
-React Anchor Link smooth Scroll: https://github.com/mauricevancooten/r...
+React: https://reactjs.org/ <br/>
+Typescript: https://www.typescriptlang.org/ <br/>
+Typescript Types vs Interfaces: https://tinyurl.com/typescripttypesvsinterfaces <br/>
+Vite: https://tailwindcss.com/docs/guides/vite <br/>
+Google Fonts: https://fonts.google.com/ <br/>
+Tailwind: https://tailwindcss.com/ <br/>
+Prettier Tailwind CSS Plugin: https://github.com/tailwindlabs/prettier-plugin-tailwindcss <br/>
+Prettier Tailwind CSS Sorting: https://tailwindcss.com/blog/automatic-class-sorting-with-prettier#how-classes-are-sorted <br/>
+Hero Icons: https://heroicons.com/ <br/>
+Framer Motion: https://www.framer.com/motion/introduction/ <br/>
+Form Submit: https://formsubmit.co/ <br/>
+React Anchor Link smooth Scroll: https://github.com/mauricevancooten/react-anchor-link-smooth-scroll <br/>
 
 EdRoh, the instructor for this tutorial, is a lead engineer for a publicly traded company with over a decade of experience in web development. Through his tutorials, he aims to provide in-depth lessons by simplifying complex concepts and allowing you to get hands-on experience by building production-level projects.
 
